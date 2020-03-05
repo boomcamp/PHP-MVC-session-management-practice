@@ -77,3 +77,7 @@ COMMIT;
 * Add a custom message "Username and Password" did not match.
 
 * Add table design for `mentor_view.php`, it should also have a delete functionality.
+
+# Finished
+
+Submit a link of the source code to the Google Classroom assignment related to this project.
