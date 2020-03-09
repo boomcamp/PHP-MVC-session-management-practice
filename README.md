@@ -74,7 +74,7 @@ COMMIT;
 
 * Using a hash algorithm add a functionality for `do_login()`,  username and password should match in `users` table.
 
-* Add a custom message "Username and Password" did not match.
+* Add a custom message "Username and Password did not match".
 
 * Add table design for `mentor_view.php`, it should also have a delete functionality.
 
