@@ -1,4 +1,4 @@
-# Session management practice
+# Introduction
 This is the continuation of [PHP-MVC-practice](https://github.com/boomcamp/PHP-MVC-practice)
 
 # Instruction
